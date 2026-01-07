@@ -10,7 +10,7 @@ from threading import Timer, Thread
 from requests.exceptions import ReadTimeout, ConnectionError
 
 # ===== ADMIN CONFIG =====
-admin_id = [1099673604]   # <-- PUT YOUR TELEGRAM USER ID HERE (INT, NO QUOTES) 
+admin_ids = [1099673604]   # <-- PUT YOUR TELEGRAM USER ID HERE (INT, NO QUOTES) 
 
 # Load configuration
 CONFIG_FILE = 'config.json'
@@ -999,5 +999,6 @@ if __name__ == '__main__':
 
 #CREDIT DELETE MAT KARNA BHAI (DON'T DELETE THE CREDIT THE CREATOR @SAHILMODZOWNER)
 #CREDIT DELETE MAT KARNA BHAI (DON'T DELETE THE CREDIT THE CREATOR @SAHILMODZOWNER)
+
 
 
